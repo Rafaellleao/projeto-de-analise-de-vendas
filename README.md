@@ -27,7 +27,7 @@ As datas são tratadas de forma eficiente utilizando a biblioteca datetime, e as
 
 1. Clone o repositório.
 2. Instale as dependências utilizando `pip install -r requirements.txt`.
-3. Execute o script principal `analise.py`.
+3. Execute o script principal `projeto_caoa.ipynb` or  `projeto_tambai.ipynb` .
 4. Os relatórios serão gerados na pasta `output/` em formato Word e PDF.
 
 ## Contribuições
